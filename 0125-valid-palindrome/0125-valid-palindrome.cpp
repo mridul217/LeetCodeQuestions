@@ -1,18 +1,14 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int start=0;
-        int end=s.size()-1;
-        while(start<=end){
-            if(!isalnum(s[start])){start++; continue;}
-            if(!isalnum(s[end])){end--;continue;}
-            if(tolower(s[start])!=tolower(s[end]))return false;
-            else{
-                start++;
-                end--;
-            }
+        string word = "";
+        for (int i=0; i<s.size(); i++){
+            if ( isalnum(s[i]))
+                word += tolower(s[i]);
         }
-        return true;
+        string reversed_word = word; // Create a copy of word to reverse
+        reverse(reversed_word.begin(), reversed_word.end()); // Reverse the copy
 
+        return word ==reversed_word;
     }
 };
