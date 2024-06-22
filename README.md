@@ -1,6 +1,6 @@
 # LeetCode Practice Repository
 
-Welcome to my LeetCode Practice Repository! 🚀
+Welcome to my LeetCode Practice Repository!! 🚀
 
 ## About
 
