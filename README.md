@@ -69,11 +69,13 @@ public:
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mridul217/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mridul217/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/mridul217/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mridul217/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mridul217/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -82,5 +84,6 @@ public:
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mridul217/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mridul217/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
