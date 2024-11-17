@@ -69,5 +69,18 @@ public:
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mridul217/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/mridul217/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mridul217/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mridul217/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mridul217/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
