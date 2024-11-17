@@ -65,6 +65,7 @@ public:
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/mridul217/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/mridul217/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -91,4 +92,8 @@ public:
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/mridul217/LeetCodeQuestions/tree/master/0459-repeated-substring-pattern) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/mridul217/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
